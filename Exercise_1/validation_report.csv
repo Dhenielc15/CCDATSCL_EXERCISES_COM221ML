@@ -1,0 +1,4 @@
+Validation Rule,Violations,Status
+Price must be positive,0,PASS
+Host ID should not be null,0,PASS
+Minimum nights must be >= 1,0,PASS
